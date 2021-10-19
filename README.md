@@ -1,2 +1,1 @@
-# projectDEmo
-learning_git
+print ("∑(not allowed)")
